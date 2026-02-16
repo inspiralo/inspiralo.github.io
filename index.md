@@ -1,5 +1,6 @@
 ---
 title: "Inspiralo"
+layout: default
 ---
 
 ![Inspiralo](https://raw.githubusercontent.com/inspiralo/inspiralo.github.io/main/az-Inspirator-GitHub-otthona.jpg)
