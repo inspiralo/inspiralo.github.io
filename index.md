@@ -10,4 +10,4 @@ A **GitHub** platformon főként tanulmányozás céljából vagyok jelen, a kö
 Valószinüleg a felhasználók azon 1%-ába tartozok akik ráeszméltek arra, hogy úgy igazából a GitHub jól strukturáltan szervezve egy nagyon jó mikroblog eszköz is tud lenni. Tehát jelenleg arra használom a felületet, hogy rövidebb gondolatmenteim erőforráskarcsú módon eltudjam juttatni mások számára akiknek az ismeretanyagok amiket nyújtok, nagyon is hasznosak lehetnek.
 
 
-👉 [Lépj tovább a mikroblogra](https://inspiralo.github.io/mikroblog/)
+👉 [Szóval, ha gondolod, lépj tovább a mikroblogomra](https://inspiralo.github.io/mikroblog/)
