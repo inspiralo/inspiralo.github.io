@@ -15,7 +15,7 @@ huncutságokat.
 Az, hogy a köz javára nem fejlesztek, nem jelenti azt, hogy magamnak ne vitelezném ki azokat a dolgokat amelyekre szükségem van. Ilyen például egy kriptotárca helyzete is, hiszen az esetek többségében valamilyen vállalati entitás szokott a fejlesztési célok mögött meghúzódni. Kivételek persze akadnak, de a legnagyobb biztonságban az ember szerintem akkor tud lenni, ha egész egyszerű saját kriptotárcát fejleszt. No, de ennyi felvezető után, hogy szépen kitárulkoztam mi mindent nem csinálok a köz javára, az alábbiakban pár szót ejtenék, hogy viszont mit csinálok.
 
 ## 🤔 Miért vagyok jelen a GitHub portálon tartalommal, ha úgy igazából mint *közkincs* nem fejlesztek❓
-Valószinüleg a 👥 felhasználók azon **1%**-ába tartozok, akik ráeszméltek arra, hogy úgy igazából a **GitHub** jól strukturáltan szervezve egy tökéletes jó mikroblog eszköz is tud lenni. Tehát jelenleg arra használom a felületet, hogy rövidebb gondolatmenteim erőforráskarcsú módon eltudjam juttatni mások számára akiknek az ismeretanyagok amiket nyújtok, nagyon is hasznosak lehetnek.
+Valószinüleg a 👥 felhasználók azon **1%**-ába tartozok, akik ráeszméltek arra, hogy úgy igazából a **GitHub** jól strukturáltan szervezve egy tökéletes mikroblog eszköz is tud lenni. Tehát jelenleg arra használom a felületet, hogy rövidebb gondolatmenteim erőforráskarcsú módon eltudjam juttatni mások számára akiknek az ismeretanyagok amiket nyújtok, nagyon is hasznosak lehetnek.
 
 
 👉 [Szóval, ha gondolod, lépj tovább a mikroblogomra](https://inspiralo.github.io/mikroblog/)
