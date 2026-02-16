@@ -19,7 +19,7 @@ Valószinüleg a 👥 felhasználók azon **1%**-ába tartozok, akik ráeszmélt
 
 <div class="banner-box">
   <a href="https://inspiralo.github.io/mikroblog/">
-    <span class="banner-text">→ 👉 Szóval, ha gondolod, lépj tovább a 🔬 mikroblogomra</span>
+    <span class="banner-text">→ 👉 Szóval, ha gondolod, lépj tovább a 🔬 mikroblogomra 😉</span>
   </a>
 </div>
 
