@@ -2,6 +2,8 @@
 title: "Inspiralo"
 ---
 
+![Inspiralo](https://raw.githubusercontent.com/inspiralo/inspiralo.github.io/main/az-Inspirator-GitHub-otthona.jpg)
+
 # Üdv, ez itt az Inspirátor hivatalos GitHub megjelenése 👋
 
 A **GitHub** platformon főként tanulmányozás céljából vagyok jelen, a köz javára *alkalmazásokat*, *programokat*, *dApps-okat* nem fejlesztek. Persze a jövő nyitott. Viszont fontosabbnak tartom a jelenlétem a **GitHub** *repository* anyagok tanulmányozása céljából. 
