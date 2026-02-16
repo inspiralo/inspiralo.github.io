@@ -19,3 +19,7 @@ Valószinüleg a 👥 felhasználók azon **1%**-ába tartozok, akik ráeszmélt
 
 
 👉 [Szóval, ha gondolod, lépj tovább a mikroblogomra](https://inspiralo.github.io/mikroblog/)
+
+<a href="https://inspirator.blog">
+  <img src="https://raw.githubusercontent.com/inspiralo/inspiralo.github.io/main/inspirator-blog-komplex-gondolatokkal.jpg" alt="Inspirator Blog - érdekes témákról vegyesen, főként : modern pénzügyek, online marketing, könyvek, utazás és wellness tartalmak, valamint társadalmilag hasznos témák!" />
+</a>
