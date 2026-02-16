@@ -9,7 +9,7 @@ layout: default
 
 A **GitHub** platformon főként tanulmányozás céljából vagyok jelen, a köz javára *alkalmazásokat*, *programokat*, *dApps-okat* nem fejlesztek. Persze a jövő nyitott. Viszont fontosabbnak tartom a jelenlétem a **GitHub** *repository* anyagok tanulmányozása céljából. 
 
->Különösen a kriptográfiai úton történő vagyontárolások világában szeretek képben lenni, hogy mi az ami <span style="color: #006400;">decentralizált</span> és mely megvalósítások tartalmazhatnak esetlegesen <span style="color:#B22222;">centralizált</span>
+>✅ Különösen a kriptográfiai úton történő vagyontárolások világában szeretek képben lenni, hogy mi az ami <span style="color: #006400;">decentralizált</span> és mely megvalósítások tartalmazhatnak esetlegesen <span style="color:#B22222;">centralizált</span>
 huncutságokat. 
 
 Az, hogy a köz javára nem fejlesztek, nem jelenti azt, hogy magamnak ne vitelezném ki azokat a dolgokat amelyekre szükségem van. Ilyen például egy kriptotárca helyzete is, hiszen az esetek többségében valamilyen vállalati entitás szokott a fejlesztési célok mögött meghúzódni. Kivételek persze akadnak, de a legnagyobb biztonságban az ember szerintem akkor tud lenni, ha egész egyszerű saját kriptotárcát fejleszt. No, de ennyi felvezető után, hogy szépen kitárulkoztam mi mindent nem csinálok a köz javára, az alábbiakban pár szót ejtenék, hogy viszont mit csinálok.
