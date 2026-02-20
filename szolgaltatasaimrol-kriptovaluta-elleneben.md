@@ -68,7 +68,7 @@ A <a href="https://inspirator.blog/online-marketing/cms/" style="color:#003366;"
 
 ### Árazás
 
-A <span style="color:#21759B;"><strong>WordPress</strong></span> fejlesztés ára **nem előre meghatározható**, mivel minden projekt egyedi. A díjazás a személyes konzultáció során, a szükséges fejlesztési komplexitás alapján, közös megegyezéssel kerül kialakításra.
+A <span style="color:#21759B;"><strong>WordPress</strong></span> weboldal készítés ára **nem előre meghatározható**, mivel minden ötlet, gondolat, projekt egyedi. A díjazás a személyes konzultáció során, a szükséges fejlesztési komplexitás alapján, közös megegyezéssel kerül kialakításra.
 
 Ha szeretnél velem konzultálni kérlek klikkelj erre a <a href="https://inspirator.blog/kapcsolat/" title="Kapcsolatfelvétel az Inspirátorral!">KAPCSOLAT</a> linkre, köszönöm, hogy érdeklődtél és segítek szívesen.
 
