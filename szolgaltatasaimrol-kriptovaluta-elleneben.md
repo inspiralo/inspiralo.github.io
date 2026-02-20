@@ -11,7 +11,7 @@ permalink: /szolgaltatasaimrol-kriptovaluta-elleneben/
 
 A kriptográfiai vagyonkezelés világa könnyen átláthatatlanná válhat azok számára, akik nem napi szinten foglalkoznak vele. Az én szerepem **nem befektetési tanácsadás**, hanem szakmai asszisztencia: segítek eligazodni a technológiai, biztonsági és működési kérdésekben, hogy magabiztosabban kezeld saját kriptoeszközeidet.
 
-A https://inspirator.blog/penzugyek/kripto oldalon található cikkeim alapján a szakismeretem főként az alábbi területeken tudod kamatoztatni:
+A https://inspirator.blog/penzugyek/kripto oldalon található publikációim alapján a szakismeretem főként az alábbi területeken tudod kamatoztatni:
 
 - decentralizációs kockázatok felismerése  
 - hálózati működés, konszenzusmechanizmusok, layer-2 megoldások megértése  
@@ -49,7 +49,8 @@ A https://inspirator.blog/online-marketing/cms/ oldalon található anyagok alap
 
 - **HTML** – strukturált, tiszta, keresőbarát markup  
 - **CSS** – reszponzív, letisztult, gyors felületek  
-- <span style="color:#F7DF1E;"><strong>JavaScript</strong></span> – interaktív elemek, dinamikus komponensek, UX-támogató funkciók  
+- <span style="color:#F7DF1E; background-color:#000; padding:2px 4px;"><strong>JavaScript</strong></span>
+ – interaktív elemek, dinamikus komponensek, UX-támogató funkciók  
 - <span style="color:#8993BE;"><strong>PHP</strong></span> – WordPress sablonok, child theme-ek, funkciók és egyedi logikák fejlesztése  
 
 ### Módszertan
