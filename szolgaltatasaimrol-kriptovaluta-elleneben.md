@@ -66,7 +66,14 @@ A <a href="https://inspirator.blog/online-marketing/cms/" style="color:#003366;"
 
 ### Árazás
 
-A WordPress fejlesztés ára **nem előre meghatározható**, mivel minden projekt egyedi.  
-A díjazás a személyes konzultáció során, a szükséges fejlesztési komplexitás alapján, közös megegyezéssel kerül kialakításra.
+A <span style="color:#21759B;"><strong>WordPress</strong></span> fejlesztés ára **nem előre meghatározható**, mivel minden projekt egyedi. A díjazás a személyes konzultáció során, a szükséges fejlesztési komplexitás alapján, közös megegyezéssel kerül kialakításra.
 
 ---
+
+<div style="margin-top:40px;">
+  <a href="https://inspiralo.github.io/" 
+     style="display:inline-block; padding:10px 18px; background:#333; color:#fff; text-decoration:none; border-radius:6px;">
+     ← Vissza
+  </a>
+</div>
+
