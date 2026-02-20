@@ -18,11 +18,16 @@ Az, hogy a köz javára nem fejlesztek, nem jelenti azt, hogy magamnak ne vitele
 Valószinüleg a 👥 felhasználók azon **1%**-ába tartozok, akik ráeszméltek arra, hogy úgy igazából a **GitHub** jól strukturáltan szervezve egy tökéletes mikroblog eszköz is tud lenni. Tehát jelenleg arra használom a felületet, hogy rövidebb gondolatmenteim erőforráskarcsú módon eltudjam juttatni mások számára akiknek az ismeretanyagok amiket nyújtok, nagyon is hasznosak lehetnek.
 
 <div class="banner-box">
-  <a href="https://inspiralo.github.io/mikroblog/">
-    <span class="banner-text">→ 👉 Szóval, ha gondolod, lépj tovább a 🔬 mikroblogomra 😉</span>
+  <a href="https://inspiralo.github.io/szolgaltatasaimrol-kriptovaluta-elleneben/">
+    <span class="banner-text">→ ₿ Itt informálódhatsz, hogy kriptovaluta ellenében milyen szolgáltatásokat nyújthatok❗</span>
   </a>
 </div>
 
+<div class="banner-box">
+  <a href="https://inspiralo.github.io/mikroblog/">
+    <span class="banner-text">→ 👉 Esetleg vesd bele magad a 🔬 mikroblogomba 😉</span>
+  </a>
+</div>
 
 <a href="https://inspirator.blog">
   <img src="https://raw.githubusercontent.com/inspiralo/inspiralo.github.io/main/inspirator-blog-komplex-gondolatokkal.jpg" alt="Inspirator Blog - érdekes témákról vegyesen, főként : modern pénzügyek, online marketing, könyvek, utazás és wellness tartalmak, valamint társadalmilag hasznos témák!" />
