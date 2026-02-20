@@ -52,7 +52,7 @@ A <a href="https://inspirator.blog/online-marketing/cms/" style="color:#003366;"
 - **CSS** – reszponzív, letisztult, gyors felületek  
 - <span style="color:#F7DF1E; background-color:#000; padding:2px 4px;"><strong>JavaScript</strong></span>
  – interaktív elemek, dinamikus komponensek, UX-támogató funkciók  
-- <span style="color:#8993BE;"><strong>PHP</strong></span> – WordPress sablonok, child theme-ek, funkciók és egyedi logikák fejlesztése  
+- <span style="color:#8993BE;"><strong>PHP</strong></span> – <span style="color:#21759B;"><strong>WordPress</strong></span> sablonok, child theme-ek, funkciók és egyedi logikák fejlesztése  
 
 ### Módszertan
 
