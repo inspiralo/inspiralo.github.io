@@ -6,6 +6,48 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- JSON-LD strukturált adat a főoldalhoz (AEO + SEO optimalizálás) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+
+    "@type": "WebPage",
+    "name": "{{ page.title | escape }}",
+    "url": "{{ page.url | absolute_url }}",
+
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Inspiralo",
+      "url": "https://inspiralo.github.io"
+    },
+
+    "author": {
+      "@type": "Person",
+      "name": "Inspirátor",
+      "sameAs": [
+        "https://inspiralo.github.io/mikroblog/",
+        "https://inspirator.blog"
+      ]
+    },
+
+    "publisher": {
+      "@type": "Person",
+      "name": "Inspirátor"
+    },
+
+    "brand": {
+      "@type": "Brand",
+      "name": "Inspirátor"
+    },
+
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }
+  }
+  </script>
+
 </head>
 <body>
   <div class="page-container">
