@@ -33,8 +33,7 @@ Fő fókuszok:
 - tartalomstratégia kialakítása  
 - tartalomfejlesztési irányok meghatározása  
 - SEO tanácsadás és strukturált tartalomépítés  
-
-**Referencia:** https://seo.inspirator.blog  
+  
 (*tartalomstratégia, tartalomfejlesztés, SEO tanácsadás*)
 
 ---
