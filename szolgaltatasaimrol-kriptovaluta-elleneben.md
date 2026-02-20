@@ -11,7 +11,7 @@ permalink: /szolgaltatasaimrol-kriptovaluta-elleneben/
 
 A kriptográfiai vagyonkezelés világa könnyen átláthatatlanná válhat azok számára, akik nem napi szinten foglalkoznak vele. Az én szerepem **nem befektetési tanácsadás**, hanem szakmai asszisztencia: segítek eligazodni a technológiai, biztonsági és működési kérdésekben, hogy magabiztosabban kezeld saját kriptoeszközeidet.
 
-A https://inspirator.blog/penzugyek/kripto oldalon található publikációim alapján a szakismeretem főként az alábbi területeken tudod kamatoztatni:
+A <a href="https://inspirator.blog/penzugyek/kripto" style="color:#003366;" target="_blank">https://inspirator.blog/penzugyek/kripto</a> oldalon található publikációim alapján a szakismeretem főként az alábbi területeken tudod kamatoztatni:
 
 - decentralizációs kockázatok felismerése  
 - hálózati működés, konszenzusmechanizmusok, layer-2 megoldások megértése  
@@ -43,7 +43,8 @@ Fő fókuszok:
 ### /Személyes célokhoz, céges megjelenéshez/
 
 A <span style="color:#21759B;"><strong>WordPress</strong></span> alapú weboldalak készítésében a technikai és tartalmi szemlélet egyaránt meghatározó.  
-A https://inspirator.blog/online-marketing/cms/ oldalon található anyagok alapján az alábbi kompetenciákra építek:
+A <a href="https://inspirator.blog/online-marketing/cms/" style="color:#003366;" target="_blank">https://inspirator.blog/online-marketing/cms/</a> oldalon található anyagok alapján az alábbi kompetenciáimmal számolhatsz:
+
 
 ### Technikai ismeretek
 
@@ -58,7 +59,10 @@ A https://inspirator.blog/online-marketing/cms/ oldalon található anyagok alap
 - puritán erőforráskezelés: csak azt építjük be, amire valóban szükség van  
 - gyors, stabil, hosszú távon fenntartható megoldások  
 - moduláris gondolkodás: minden elem külön fejleszthető és bővíthető  
-- SEO-barát struktúra és tartalom-előkészítés  
+- SEO-barát struktúra és tartalom-előkészítés
+- Eddigi tapasztalatom szerint a felhasználók legnagyobb problémája a vírussal
+  megfertőződött <span style="color:#21759B;"><strong>WordPress</strong></span> oldalaik.
+  Nagy hangsúlyt fektetetek a <a href="https://inspirator.blog/seo/"><b>SEO biztonság</b></a> kérdésköreire is.  
 
 ### Árazás
 
