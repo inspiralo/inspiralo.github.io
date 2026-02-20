@@ -11,7 +11,7 @@ permalink: /szolgaltatasaimrol-kriptovaluta-elleneben/
 
 A kriptográfiai vagyonkezelés világa könnyen átláthatatlanná válhat azok számára, akik nem napi szinten foglalkoznak vele. Az én szerepem **nem befektetési tanácsadás**, hanem szakmai asszisztencia: segítek eligazodni a technológiai, biztonsági és működési kérdésekben, hogy magabiztosabban kezeld saját kriptoeszközeidet.
 
-A https://inspirator.blog/kripto oldalon található cikkeim alapján a szakismeretem főként az alábbi területeken kamatoztatható:
+A https://inspirator.blog/penzugyek/kripto oldalon található cikkeim alapján a szakismeretem főként az alábbi területeken tudod kamatoztatni:
 
 - decentralizációs kockázatok felismerése  
 - hálózati működés, konszenzusmechanizmusok, layer-2 megoldások megértése  
