@@ -27,7 +27,8 @@ Az aktuális érték itt ellenőrizhető:
 
 ## Tartalomstratégia konzultáció
 
-A tartalomfejlesztés, SEO és stratégiai tervezés területén a https://seo.inspirator.blog oldalon bemutatott szemléletet követem.  
+A tartalomfejlesztés, SEO és stratégiai tervezés területén a <a href="https://seo.inspirator.blog" style="color:#003366;" target="_blank" title="Tartalomstratégia">https://seo.inspirator.blog</a> oldalon bemutatott szemléletet követem.  
+
 Fő fókuszok:
 
 - tartalomstratégia kialakítása  
@@ -75,4 +76,3 @@ A <span style="color:#21759B;"><strong>WordPress</strong></span> fejlesztés ár
      ← Vissza
   </a>
 </div>
-
