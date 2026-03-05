@@ -23,6 +23,10 @@ A <a href="https://inspirator.blog/penzugyek/kripto" style="color:#003366;" targ
 Az aktuális érték itt ellenőrizhető:  
 <a href="https://presearch.com/search?q=10000+HUF+to+LTC" target="_blank">https://presearch.com/search?q=10000+HUF+to+LTC</a>
 
+### Kiknek való leginkább a kripto asszisztencia szolgáltatásom❓
+Azoknak a kripto kezdőknek akiknek szükségük van arra, hogy konzultálni tudjanak a kriptovalutákat érintő különböző szakmai
+kérdésekben, mert azt a gigantikus tudásanyagot amely már rendelkezésre áll a kriptográfia vagyonkezelésének területén, még magabiztosan nem tudták adaptálni. 
+
 ---
 
 ## Tartalomstratégia konzultáció
